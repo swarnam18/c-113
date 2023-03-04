@@ -1,0 +1,22 @@
+h3
+{
+  font-size: 25px !important;
+  color:blue;
+}
+canvas {
+    border:1px solid rgb(0, 26, 255);
+}
+
+body{
+    background:linear-gradient(#55efc4,#81ecec,#fd79a8,#e84393,#a29bfe,#341f97);
+}
+
+#n1{
+    background:linear-gradient(blue,black);
+    color: aqua;
+}
+
+#s1{
+    background:linear-gradient(blue,black);
+    color: aqua;
+}
